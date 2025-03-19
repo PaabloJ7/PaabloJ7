@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Pablo!  
 
-🚀 **Desarrollador Web Junior** con experiencia en **Frontend y Backend**.  
+🚀 **Desarrollador Web Junior** con solidos conocimientos en **Frontend y Backend**.  
 💻 Me encanta aprender y explorar nuevas tecnologías para mejorar mis habilidades.  
 
 🔭 **Echa un ojo a mi [portfolio](https://portoflio-pablosierra.netlify.app)**  
